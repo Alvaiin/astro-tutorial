@@ -1,6 +1,5 @@
 {
   "name": "tutorial",
-  "homepage": "/astro-tutorial/#",
   "type": "module",
   "version": "0.0.1",
   "scripts": {
